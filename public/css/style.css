@@ -1,0 +1,54 @@
+body{
+    background: linear-gradient(to bottom, #30c5d2,#471069);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.card-div{
+    min-height: 13rem;
+    background-color: rgb(0, 0, 0);
+    margin-bottom: 4rem;
+    padding: 2%;
+    margin-left: 50%;
+    transform: translate(-50%);
+    border-radius: 10px;
+    color: rgb(255, 0, 221);
+    font-weight: 600;
+    filter: drop-shadow(10px 10px 0px rgb(255, 255, 255));
+    transition: all .3s;
+    cursor: pointer;
+}
+
+.card-div:hover{
+    filter: drop-shadow(20px 20px 0px rgb(255, 0, 221));
+}
+
+
+.head{
+    margin-top: 1rem;
+    margin-left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.author{
+    position: absolute;
+    display: flex;
+    bottom: 1rem;
+}
+
+.author img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border:3px solid white;
+}
+.author p{
+    margin-left: 1rem;
+    color: white;
+    font-weight: 500;
+    
+}
