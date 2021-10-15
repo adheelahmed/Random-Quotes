@@ -52,3 +52,9 @@ body{
     font-weight: 500;
     
 }
+
+@media screen and (max-width:600px) {
+    .quotes{
+        padding: 4%;
+    }
+}
