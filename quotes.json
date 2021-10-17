@@ -11,14 +11,37 @@
          "quotes":"Once you find everything thats happening around, it will be the greatest thing that keeps you going"
       },
       {
-         "name":"Naswih",
-         "userName":"naxwh",
-         "quotes":"You Are The Average Of The Five People You Spend The Most Time With"
-      },
-      {
          "name":"Shaheem PP",
          "userName":"the-codeholic",
          "quotes":"Make a mark wherever you go😇"
-      }
-   ]
+      },
+      {
+            "name":"Naswih",
+            "userName":"naxwh",
+            "quotes":"You Are The Average Of The Five People You Spend The Most Time With"
+      },
+        {
+            "name":"Shamil Thaikkadan ",
+            "userName":"Shamilthaikkadan ",
+            "quotes":"time without rules,violence is the greatest weapon"
+        }, 
+        {
+            "name":"Muhmmad Naseeb",
+            "userName":"naseeb-ek",
+            "quotes":"The purpose of our lives is to be happy"
+        },
+        {
+            "name":"Mohammed Nihal",
+            "userName":"Nihal350",
+            "quotes":"The breath of a wounded lion is more terrible than a roar"
+        },
+        {
+            "name":"Afna Sherin",
+            "userName":"afna34",
+            "quotes":"Technology is best when it brings people together"
+        }
+          "name":"Sreelakshmi.k",
+            "userName":"Sreelakshmi54",
+            "quotes":"Smallest act of kindness is worth more than the grandest intention"
+    ]
 }
