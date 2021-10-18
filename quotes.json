@@ -49,7 +49,11 @@
           "name":"Mohammed Abdul Gafoor",
             "userName":"mohammed Abdul gafoor",
             "quotes":"risk is the spice of life"
-        } 
-      
+        },
+      {
+         "name":"Mohammed Roshan T",
+         "userName":"MohammedRoshanT",
+         "quotes":"We are all connected through Internet like neurons in a Giant Brain.Otherwise I dont know you and you dont know me."
+      }
     ]
 }
