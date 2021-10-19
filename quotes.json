@@ -49,7 +49,12 @@
           "name":"Mohammed Abdul Gafoor",
             "userName":"mohammed Abdul gafoor",
             "quotes":"risk is the spice of life"
-        } 
+        },
+        {
+            "name":"Abdul Hadi BP",
+            "userName":"hadibp",
+            "quotes":"Don't let some foolish quotes change your life style"
+        }
       
     ]
 }
