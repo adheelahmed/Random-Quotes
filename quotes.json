@@ -50,10 +50,20 @@
             "userName":"mohammed Abdul gafoor",
             "quotes":"risk is the spice of life"
         },
-      {
+       {
          "name":"Mohammed Roshan T",
          "userName":"MohammedRoshanT",
          "quotes":"We are all connected through Internet like neurons in a Giant Brain.Otherwise I dont know you and you dont know me."
-      }
+        },
+       {
+          "name":"Muhammed Swabeeh",
+            "userName":"SWABEEH22",
+            "quotes":"take the risk or lose the chance"
+       },
+       {
+            "name":"Abdul Hadi BP",
+            "userName":"hadibp",
+            "quotes":"Don't let some foolish quotes change your life style"
+       }
     ]
 }
