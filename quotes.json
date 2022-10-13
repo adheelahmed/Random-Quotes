@@ -15,11 +15,6 @@
          "userName":"the-codeholic",
          "quotes":"Make a mark wherever you go😇"
       },
-      {
-            "name":"Naswih",
-            "userName":"nasw1h",
-            "quotes":"You Are The Average Of The Five People You Spend The Most Time With"
-      },
         {
             "name":"Shamil Thaikkadan",
             "userName":"Shamilthaikkadan",
@@ -89,6 +84,11 @@
             "name":"Muhammed Binzid",
             "userName":"Binz-mhd",
             "quotes":"Life start at the end of your comfort zone"
+      },
+      {
+            "name":"Naswih",
+            "userName":"nasw1h",
+            "quotes":"You Are The Average Of The Five People You Spend The Most Time With"
       }
     ]
 }
