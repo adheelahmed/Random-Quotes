@@ -56,25 +56,27 @@
             "quotes":"take the risk or lose the chance"
        },
        {
-            "name":"Abdul Hadi BP",
-            "userName":"hadibp",
-            "quotes":"Don't let some foolish quotes change your life style"
-       },
-      {
             "name":"Ahammed Hinas kk",
             "userName":"hinasahammed",
             "quotes":"Many of life's failures are people who did not realize how close they were to success when they gave up"
       },
        {
-            "name":"Mansoor Majeed",
-            "userName":"Mans22r",
-            "quotes":"Do What You Love : Love What You Do"
+            "name":"Abdul Hadi BP",
+            "userName":"hadibp",
+            "quotes":"Don't let some foolish quotes change your life style"
        },
-        {
+      
+      {
             "name":"Muhammed Muhsin P",
             "userName":"Muhsin",
             "quotes":"The process of editing is what I enjoy most - putting the pieces together and making sense out of them."
        },
+       {
+            "name":"Mansoor Majeed",
+            "userName":"Mans22r",
+            "quotes":"Do What You Love : Love What You Do"
+       },
+        
        {
             "name":"Irshad Pk ",
             "userName":"Irshad9074",
