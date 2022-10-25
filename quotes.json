@@ -20,6 +20,15 @@
             "userName":"naxwh",
             "quotes":"You Are The Average Of The Five People You Spend The Most Time With"
       },
+      {
+
+            "name":"Akash cp",
+
+            "userName":"akashcp8943",
+
+            "quotes":"risk is the spice of life"
+
+      },
         {
             "name":"Shamil Thaikkadan",
             "userName":"Shamilthaikkadan",
@@ -31,10 +40,30 @@
             "quotes":"The purpose of our lives is to be happy"
         },
         {
+
+            "name":"hasil",
+
+            "userName":"hasil9037",
+
+            "quotes":"happy be happy "
+
+        },
+        {
             "name":"Mohammed Nihal",
             "userName":"Nihal350",
             "quotes":"The breath of a wounded lion is more terrible than a roar"
         },
+        {
+
+            "name":"Nihal",
+            "userName":"nihal350",
+            "quotes":"Everything is free until anyone charges it"
+        },
+        {
+            "name":"Naswih",
+            "userName":"naxwh",
+            "quotes":"You Are The Average Of The Five People You Spend The Most Time With"
+        }, 
         {
             "name":"Afna Sherin",
             "userName":"afna34",
@@ -65,11 +94,6 @@
             "userName":"hadibp",
             "quotes":"Don't let some foolish quotes change your life style"
        },
-      {
-            "name":"Ahammed Hinas kk",
-            "userName":"hinasahammed",
-            "quotes":"Many of life's failures are people who did not realize how close they were to success when they gave up"
-      },
        {
             "name":"Mansoor Majeed",
             "userName":"Mans22r",
@@ -93,7 +117,29 @@
       {
          "name":"Veer Bhadra Solanki",
          "userName":"Veerbhadrasolanki",
-         "quotes":"Act first, explain later"
+         "quotes":"Act first, explain later"  
+      },
+       {
+            "name":"Ahammed Hinas kk",
+            "userName":"hinasahammed",
+            "quotes":"Many of life's failures are people who did not realize how close they were to success when they gave up"
+      },
+
+       {
+            "name":"Jaseel P",
+            "userName":"Jazeye",
+            "quotes":"Dare to dream"
+       },
+      {
+         "name" : "Allen Saji",
+         "userName": "Allen-Saji",
+         "quotes": "Time protects men as well as destroys them."
+      },
+      {
+         "name":"Hridul P K",
+         "userName":"hridulpk",
+         "quotes":"Our lives are defined by opportunities; even the ones we miss."
       }
+
     ]
 }
