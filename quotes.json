@@ -36,6 +36,17 @@
             "quotes":"The breath of a wounded lion is more terrible than a roar"
         },
         {
+
+            "name":"Nihal",
+            "userName":"nihal350",
+            "quotes":"Everything is free until anyone charges it"
+        },
+        {
+            "name":"Naswih",
+            "userName":"naxwh",
+            "quotes":"You Are The Average Of The Five People You Spend The Most Time With"
+        }, 
+        {
             "name":"Afna Sherin",
             "userName":"afna34",
             "quotes":"Technology is best when it brings people together"
@@ -95,5 +106,6 @@
          "userName":"hridulpk",
          "quotes":"Our lives are defined by opportunities; even the ones we miss."
       }
+
     ]
 }
