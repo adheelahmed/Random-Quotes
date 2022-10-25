@@ -102,9 +102,15 @@
             "quotes":"Many of life's failures are people who did not realize how close they were to success when they gave up"
       },
       {
+         "name" : "Allen Saji",
+         "userName": "Allen-Saji",
+         "quotes": "Time protects men as well as destroys them."
+      },
+      {
          "name":"Hridul P K",
          "userName":"hridulpk",
          "quotes":"Our lives are defined by opportunities; even the ones we miss."
+
       }
 
     ]
