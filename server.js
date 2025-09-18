@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const ejs = require('ejs')
 const data = require('./quotes.json')
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT 
 app.set('view engine','ejs')
 
 app.use(express.static(__dirname +'/public'))
